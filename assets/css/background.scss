@@ -1,0 +1,94 @@
+---
+---
+@import '_vars';
+@import url('reset.css');
+
+/*Zs code*/
+html{ 
+  background:url(../images/landing.png) no-repeat center center fixed; 
+  
+}
+
+
+/* Styling */
+
+#wrapper{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#content{
+	display: block;
+	width: 600px;
+}
+
+#content>*{
+	font-family: Helvetica, Sans-serif;
+}	
+h1{
+	font-size: 24pt;
+	text-align: center;
+	margin-bottom: 11pt;
+	color: $color1;
+}
+#wrapper-content{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  /*background-color: $color3;*/
+	
+}
+.centered-text{
+	width: 80%;
+	margin: 0 auto; 
+}
+#wrapper-button{
+	width: 80%;
+	margin: 0 auto; 
+}
+#button-enter{
+	display: block;
+	border-radius: 10px;
+	width: $button-width;
+	height: $button-height;
+	margin: 0 auto; 
+	padding-top: 0.5em;
+	background-color: $button-bg-color1;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: middle;
+	color: $button-color1;
+}
+#button-enter:hover{
+	background-color: $button-bg-color2;
+	color: $button-color2;
+}
+#text-inserted{
+	display: block;
+	margin-bottom: 1em;
+	padding: 0;
+	width: 100%;
+	background-color: $color3;
+}
+#catchphrase{
+	display: block;
+	width: 100%;
+	margin-bottom: 1em;
+	padding: 5px;
+	font-size: $text-s_size;
+	font-style: italic;
+	color: $color2;
+	text-align : center;
+	background-color: $color3;
+}
+.color1{
+	color: $color1;
+}
+.color2{
+	color: $color2;
+}
+.color3{
+	color: color3;
+}
