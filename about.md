@@ -1,20 +1,22 @@
 ---
-title: About
+title: -about
 permalink: about/
 profile: true
 ---
 
 # My username's {{site.author}}, nice to meet you!
 
-I study Business Information Systems somwhere in the world.
-I started to draw in a more "serious" manner when I saw my first anime on TV. I was about, 5 years old at that moment. Ever since, drawing has always been the best way for me to stay in touche with who I am and how I am.
+Ever since I saw my first anime on television when I was 5, drawing has been a part of me.
+It has helped me made precious friends, kept my mind as healthy as it could and made me continuously improve myself.
 
-I grew up since then, I am going through the second decade in my life.
-Thanks to many encounters in my life, I developed many different hobbies.
-I enjoy cooking and picked up photography a couple of years ago. (I like eating and stalking. omg. jk.) And maybe you guessed it already, I like playing video games!
+I grew up since then, mostly in age and not vertically.
+Although drawing plays a huge part in my life, I have many other points of interests, to name a few (unordered): photography, cooking and gaming. And that's just the peak of the iceberg.
 
 # My idea behind this website
-I had a really bad 2 year stop at drawing because, well, let's say I lost my touche... I believe that to improve my skills at anything, I need to be better at putting myself out there and discipline (lol). It's a laid back place in the internet where I can drag and drop things, so expect some humour, blog posts, and salt.
+I stopped drawing happily for 2 years, which was one of the signs showing how unhealthy I was. I am fine now, but unsatisfied of the lack of progress I "missed". I believe that to improve my skills at anything, I need to be better at putting myself out there and discipline (lol).
+
+So I made this space to organize myself (this idea was in my mind for 3 years already...). 
+It's a laid back place in the internet where I can bundle up things such as humour, blog posts, and salt.
 
 # The website right now...
 

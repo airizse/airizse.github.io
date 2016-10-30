@@ -1,6 +1,6 @@
 name: ./airizse
-author-description: Hallo
-meta_description: "The most of Airizse"
+author-description: I'm not a workaholic. I'm just exhausted. (Help me)
+meta_description: "Airizse's Internet Bundle"
 joke: I would have loved telling you this UDP joke, but you might not get it...
 
 aboutPage: true
@@ -11,10 +11,10 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://airizse.xyz'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'airizse'
 
 # Details for the RSS feed generator
 url:            'https://airizse.github.io/'
