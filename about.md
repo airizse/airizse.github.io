@@ -27,3 +27,5 @@ I have dis: <a href="https://www.instagram.com/airizse/ "> My instagram </a>
 <br/>
 And dis: <a href="https://disqus.com/by/airizse/"> My disqus </a>
 <br/>
+
+{% include footer.html %}
